@@ -6,7 +6,7 @@ Discover useful plugins, explore new features, and share your own projects.
 
 ## Plugins
 
-*Plugin list coming soon.*
+- [Honeycomb / Hexagon Generator](https://github.com/Xusr404/solidcraft-honeycomb-plugin) — Fill one or more sketch regions with a continuous hexagon pattern. Adjust the cell size and spacing, and optionally trim cells at the outline.
 
 ## Contributing
 
